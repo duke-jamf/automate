@@ -44,7 +44,7 @@ if [ ! -d "$SCRIPTS" ]; then
 fi
 
 # Make sure the working directory is available
-DIR=`pwd`/automate
+DIR=`pwd`/build
 mkdir -p "$DIR"
 
 # Start a new log file

@@ -1,5 +1,5 @@
 .DS_Store
-automate/
+build/
 definitions/
 scripts/
 .manifest
